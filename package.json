@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
     "@next/font": "13.1.5",
+    "googleapis": "^105.0.0",
+    "https": "^1.0.0",
+    "moment": "^2.29.4",
     "next": "13.1.5",
+    "pdf-parse": "^1.1.1",
+    "pdf-table-extractor": "^1.0.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-google-maps": "^9.4.5"
   }
 }
