@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react'
+import React, { useState } from 'react'
 import { GoogleMap, withGoogleMap, withScriptjs, Polygon } from 'react-google-maps'
 import DrawingManager from "react-google-maps/lib/components/drawing/DrawingManager"
 import { districts, RIVNE_CENTER } from '../config'
